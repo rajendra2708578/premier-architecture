@@ -1,0 +1,1 @@
+alert("Hi it's me -'Rajendra' -- I request you to open this website in laptop/Computer ✅ Because this website is not responsive 👽");
